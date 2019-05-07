@@ -1,0 +1,93 @@
+@lesson1 pythonのプログラム
+sample1.txt インタラクティブモード
+sample1.py スクリプトモード
+
+@lesson2 pythonの基本
+sample3 10進変換 0b 0o 0x
+sample4 エスケープシーケンス raw文字列
+
+@lesson3 変数と式
+sample3 変数を使う
+sample7 文字列を扱う演算子
+sample9 標準入力
+
+@lesson4
+sample2 if文
+sample3 条件演算子
+sample4 for文 range()
+sample5 while文
+sample9 break continue end= 改行せずに出力
+
+@lesson5
+sample1 リスト
+sample2 リストの長さ len()
+sample3 リストとfor文
+sample5 要素の追加、挿入 append() insert() インデックス(添字のこと)
+sample6 要素の削除 del remove()
+sample7 リストの代入
+sample8 代入によるリストの作成 list()
+sample9 リストの連結 extend()
+sample10 リストのスライス
+sample11 逆順 reserve()
+sample12 要素の組み合わせ enumrate()
+sample13 要素の展開、分解 zip()
+sample14 コンプリヘンション
+sample15 リストの集計と並び変え max() min() sum() sorted()
+
+@lesson6 コレクション
+sample1 タプル　ディクショナリ
+sample2 キーの真偽
+sample4 ビュー .keys() .values() .items()
+sample5 ディクショナリの更新 .updata()
+sample7 セット .add() .remove 
+
+@lesson7 関数
+sample1 関数
+sample7 複数の戻り値
+sample8 関数のリスト化
+sample9 無名関数　map() lambda
+sample10 デコレータ
+sample12 グローバル変数
+
+@lesson8 クラス
+sample3 クラス
+sample4 クラス変数とクラスメソッド
+sample5 継承とオーバーライド
+sample6 モジュール化
+
+@lesson9 文字列と正規表現
+sample2 大文字化と小文字化 .upper() .lower()
+sample3 フォーマット .format()
+sample4 文字列の検索 .find()
+sample5 文字列の置換 .replace()
+sample6 正規表現による検索 re.compile() .search()
+sample7 行頭、行末を表すメタ文字 ^ $
+sample8 任意の1文字を表すメタ文字 .
+sample9 文字列クラスを表す正規表現 []
+sample10 繰り返し記号による正規表現 * + ? {}
+sample11 グループ化と選択を行う正規表現 () |
+sample12 正規表現で置換する
+
+@lesson10 ファイルと例外処理
+sample1 テキストファイルに書き込む
+sample2 テキストファイルを読み込む
+sample3 csvファイルの読み書き
+sample4 jsonファイルの読み書き
+sample5 例外処理
+sample6 ディレクトリ情報を調べる
+sample7 ファイル情報を調べる
+
+@lesson11 データベースとネットワーク
+sample1 SQL文と表
+sample6 URL
+
+@lesson12 機械学習の基礎
+sample1 統計指標を取る
+sample2 ヒストグラム
+sample3 散布図
+sample4 数学関連のグラフ
+sample5 numpyを使用したグラフの作成
+
+@lesson13
+sample1 線形回帰
+sample2 クラスタリング

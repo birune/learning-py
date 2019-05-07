@@ -1,0 +1,12 @@
+{
+    "KANTO":
+    {
+        "Tokyo":50,
+        "Yokohama":40
+    },
+    "KANSAI":
+    {
+        "Osaka":30,
+        "Kyoto":20
+    }
+}
